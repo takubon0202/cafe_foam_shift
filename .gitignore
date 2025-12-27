@@ -1,0 +1,15 @@
+# Google Drive files
+*.gsheet
+*.gdoc
+*.gslides
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Nested git repos
+cafe-unified-system/.git/
